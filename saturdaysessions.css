@@ -2,17 +2,22 @@
 
 	font-family: Century Gothic;
 }
+.button{
+	position: absolute;
+	text-decoration: none;
+
+}
 
 .btn{
-	border: 2px solid #0000;
+	border: 1px solid #000000;
+	color: #000000;
 	padding: 15px 15px;
 	margin: 8px 4px;
 	color: #000000;
-	font-size:20px;
-	background-color: white;
+	font-size:15px;
+	background-color: light grey;
 	display: block;
 	text-decoration: none;
-	position: absolut;
 }
 .btn:hover{
 	background-color: c0c0c0;
