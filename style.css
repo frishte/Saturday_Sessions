@@ -1,0 +1,17 @@
+.table{
+  min-width: 481px;
+ border-collapse: collapse;
+  
+  }
+  .th{text-align: left;
+  }
+  
+  .table, th, td {
+	  border: 1px solid #000;
+	  border-collapse: collapse;
+  }
+  .th, td{
+	  padding: 30px;
+	  border-collapse: collapse;
+  }
+  
