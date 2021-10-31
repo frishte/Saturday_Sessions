@@ -2,6 +2,9 @@
 
 	font-family: Century Gothic;
 }
+.a{
+	text-decoration: none;
+}
 .button{
 	position: absolute;
 	text-decoration: none;
